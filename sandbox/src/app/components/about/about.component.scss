@@ -1,0 +1,19 @@
+.about {
+    width: 80%;
+    margin: auto;
+    .profile {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 20%;
+
+        .profile-image {
+            max-height: 450px;
+        }
+
+        .contact-button {
+            background-color: #D1B7A1;
+            color: white;
+            padding: 10px 20px;
+        }
+    }
+}

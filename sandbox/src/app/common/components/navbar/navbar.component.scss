@@ -1,0 +1,16 @@
+.navbar {
+    padding: 0 100px;
+    
+    .mat-toolbar {
+        background-color: white;
+    }
+
+    .navbar-spacer {
+        flex: 1 1 auto;
+    }
+
+    .navbar-link {
+        color: #E17E76;
+        text-decoration: none;
+    }
+}

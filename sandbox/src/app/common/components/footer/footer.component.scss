@@ -1,0 +1,15 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+    .mat-toolbar {
+        background-color: #D1B7A1;
+        color: #FFFFFF;
+        padding: 25px 100px;
+
+        .navbar-spacer {
+            flex: 1 1 auto;
+        }
+    }
+}
